@@ -11,6 +11,7 @@ This project covers:-
  6. Clustering RFM data using KMeans
  7. Identifying optimum no of clusters using ELBOW method
  8. Conclusion
+ 9. Data Reporting using Tableau Dashboards (https://public.tableau.com/views/RetailDashboarding-Project3/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link)
  
 Dataset Description 
 This is a transnational data set which contains all the transactions that occurred between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique and all-occasion gifts.
